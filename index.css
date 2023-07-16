@@ -1,0 +1,47 @@
+.nav-link{
+    color: orange;
+    text-decoration: none;
+}
+
+main{
+max-width: 600px;
+margin-top: 24px;
+margin-bottom: 24px;
+margin-left: auto;
+margin-right: auto;
+}
+
+section{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding-left: 16 px;
+    padding-right: 16 px;
+    padding-bottom: 16 px;
+}
+
+#title{
+   font-size: 40px; 
+   font-weight: 800;
+}
+
+.d-line{
+    display: inline;
+}
+
+nav>ul{
+list-style: none;
+
+}
+
+body{
+   background-color: #222; 
+   color: #eee;
+}
+
+#avatar{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 32px;
+    margin-top:32px;
+}
